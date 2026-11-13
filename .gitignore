@@ -1,0 +1,13 @@
+# Packet Tracer backup files
+*.pkt.bak
+*.pkt~
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
