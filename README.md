@@ -13,7 +13,7 @@ Hands-on lab for practicing enterprise network troubleshooting across VLANs, int
 |-----|----------|--------------|--------|
 | 001 | [Inter-VLAN routing failure from trunk allowed-VLAN misconfig](scenarios/001-trunk-allowed-vlan.md) | VLAN, 802.1Q, SVI | ✅ |
 | 002 | [DHCP client gets IP but cannot route off-subnet](scenarios/002-dhcp-wrong-gateway.md) | DHCP, SVI | ✅ |
-| 003 | DNS resolution failure | DNS, ACL | ⏳ |
+| 003 | [DNS resolution failure due to ACL](scenarios/003-dns-failure.md) | DNS, ACL | ✅ |
 
 ## Repository structure
 
